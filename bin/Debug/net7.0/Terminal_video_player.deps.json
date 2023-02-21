@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Terminal_video_player/1.0.0": {
+        "runtime": {
+          "Terminal_video_player.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Terminal_video_player/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

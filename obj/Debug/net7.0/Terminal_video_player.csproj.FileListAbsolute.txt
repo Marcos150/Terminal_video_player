@@ -1,0 +1,15 @@
+/Users/marcos/Desktop/cosas_inclasificables/Terminal_video_player/bin/Debug/net7.0/Terminal_video_player
+/Users/marcos/Desktop/cosas_inclasificables/Terminal_video_player/bin/Debug/net7.0/Terminal_video_player.deps.json
+/Users/marcos/Desktop/cosas_inclasificables/Terminal_video_player/bin/Debug/net7.0/Terminal_video_player.runtimeconfig.json
+/Users/marcos/Desktop/cosas_inclasificables/Terminal_video_player/bin/Debug/net7.0/Terminal_video_player.dll
+/Users/marcos/Desktop/cosas_inclasificables/Terminal_video_player/bin/Debug/net7.0/Terminal_video_player.pdb
+/Users/marcos/Desktop/cosas_inclasificables/Terminal_video_player/obj/Debug/net7.0/Terminal_video_player.csproj.AssemblyReference.cache
+/Users/marcos/Desktop/cosas_inclasificables/Terminal_video_player/obj/Debug/net7.0/Terminal_video_player.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcos/Desktop/cosas_inclasificables/Terminal_video_player/obj/Debug/net7.0/Terminal_video_player.AssemblyInfoInputs.cache
+/Users/marcos/Desktop/cosas_inclasificables/Terminal_video_player/obj/Debug/net7.0/Terminal_video_player.AssemblyInfo.cs
+/Users/marcos/Desktop/cosas_inclasificables/Terminal_video_player/obj/Debug/net7.0/Terminal_video_player.csproj.CoreCompileInputs.cache
+/Users/marcos/Desktop/cosas_inclasificables/Terminal_video_player/obj/Debug/net7.0/Terminal_video_player.dll
+/Users/marcos/Desktop/cosas_inclasificables/Terminal_video_player/obj/Debug/net7.0/refint/Terminal_video_player.dll
+/Users/marcos/Desktop/cosas_inclasificables/Terminal_video_player/obj/Debug/net7.0/Terminal_video_player.pdb
+/Users/marcos/Desktop/cosas_inclasificables/Terminal_video_player/obj/Debug/net7.0/Terminal_video_player.genruntimeconfig.cache
+/Users/marcos/Desktop/cosas_inclasificables/Terminal_video_player/obj/Debug/net7.0/ref/Terminal_video_player.dll
