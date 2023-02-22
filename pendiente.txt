@@ -1,3 +1,0 @@
-﻿Crear y usar un directorio de trabajo
-Usar inglés
-Obtener la duración total del video automáticamente
